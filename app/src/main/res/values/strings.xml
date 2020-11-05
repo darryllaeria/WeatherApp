@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="weather_id"><b>Weather ID: %1$s</b></string>
+    <string name="weather_state">Weather State: %1$s</string>
+    <string name="wind_direction">Wind Direction: %1$s</string>
+    <string name="temperature">Temperature: %1$s - %2$s</string>
+    <string name="wind_speed">Wind Speed: %1$s</string>
+    <string name="air_pressure">Air Pressure: %1$s</string>
+    <string name="humidity">Humidity: %1$s</string>
+    <string name="visibility">Visibility: %1$s</string>
+    <string name="predictability">Predictability: %1$s</string>
+    <string name="applicable_date">Applicable Date: %1$s</string>
+    <string name="error_message">Oops, an error has occurred</string>
+</resources>

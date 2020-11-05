@@ -1,0 +1,159 @@
+{
+    "consolidated_weather": [
+        {
+            "id": 6669716522270720,
+            "weather_state_name": "Heavy Cloud",
+            "weather_state_abbr": "hc",
+            "wind_direction_compass": "SE",
+            "created": "2020-11-02T12:40:59.766156Z",
+            "applicable_date": "2020-11-02",
+            "min_temp": 19.375,
+            "max_temp": 27.59,
+            "the_temp": 26.665,
+            "wind_speed": 5.920511322243432,
+            "wind_direction": 143.30215784712436,
+            "air_pressure": 1021.0,
+            "humidity": 51,
+            "visibility": 12.680011234391156,
+            "predictability": 71
+        },
+        {
+            "id": 5517160773320704,
+            "weather_state_name": "Light Cloud",
+            "weather_state_abbr": "lc",
+            "wind_direction_compass": "SE",
+            "created": "2020-11-02T12:41:02.581623Z",
+            "applicable_date": "2020-11-03",
+            "min_temp": 17.009999999999998,
+            "max_temp": 26.725,
+            "the_temp": 24.465,
+            "wind_speed": 5.847294656069884,
+            "wind_direction": 140.995106749009,
+            "air_pressure": 1021.5,
+            "humidity": 52,
+            "visibility": 15.382043863835202,
+            "predictability": 70
+        },
+        {
+            "id": 4629022941118464,
+            "weather_state_name": "Clear",
+            "weather_state_abbr": "c",
+            "wind_direction_compass": "E",
+            "created": "2020-11-02T12:41:06.341056Z",
+            "applicable_date": "2020-11-04",
+            "min_temp": 15.935,
+            "max_temp": 28.025,
+            "the_temp": 25.33,
+            "wind_speed": 3.4875088707335817,
+            "wind_direction": 95.98835965317066,
+            "air_pressure": 1017.5,
+            "humidity": 50,
+            "visibility": 14.94708402926907,
+            "predictability": 68
+        },
+        {
+            "id": 6156646574194688,
+            "weather_state_name": "Heavy Cloud",
+            "weather_state_abbr": "hc",
+            "wind_direction_compass": "N",
+            "created": "2020-11-02T12:41:08.456830Z",
+            "applicable_date": "2020-11-05",
+            "min_temp": 17.27,
+            "max_temp": 32.21,
+            "the_temp": 28.75,
+            "wind_speed": 5.823452402126249,
+            "wind_direction": 6.771308592332369,
+            "air_pressure": 1010.5,
+            "humidity": 54,
+            "visibility": 15.236332319255547,
+            "predictability": 71
+        },
+        {
+            "id": 6434464654688256,
+            "weather_state_name": "Light Cloud",
+            "weather_state_abbr": "lc",
+            "wind_direction_compass": "SSE",
+            "created": "2020-11-02T12:41:11.351712Z",
+            "applicable_date": "2020-11-06",
+            "min_temp": 18.854999999999997,
+            "max_temp": 24.945,
+            "the_temp": 24.735,
+            "wind_speed": 5.881975341960285,
+            "wind_direction": 156.74594838902024,
+            "air_pressure": 1013.5,
+            "humidity": 56,
+            "visibility": 15.418394078581086,
+            "predictability": 70
+        },
+        {
+            "id": 4865570211102720,
+            "weather_state_name": "Heavy Rain",
+            "weather_state_abbr": "hr",
+            "wind_direction_compass": "E",
+            "created": "2020-11-02T12:41:14.254816Z",
+            "applicable_date": "2020-11-07",
+            "min_temp": 17.835,
+            "max_temp": 24.845,
+            "the_temp": 23.51,
+            "wind_speed": 4.654002425833134,
+            "wind_direction": 93.50000000000001,
+            "air_pressure": 1018.0,
+            "humidity": 59,
+            "visibility": 9.999726596675416,
+            "predictability": 77
+        }
+    ],
+    "time": "2020-11-02T23:57:09.345723+10:00",
+    "sun_rise": "2020-11-02T04:55:20.369731+10:00",
+    "sun_set": "2020-11-02T18:07:15.354057+10:00",
+    "timezone_name": "LMT",
+    "parent": {
+        "title": "Australia",
+        "location_type": "Country",
+        "woeid": 23424748,
+        "latt_long": "-24.912100,133.397552"
+    },
+    "sources": [
+        {
+            "title": "BBC",
+            "slug": "bbc",
+            "url": "http://www.bbc.co.uk/weather/",
+            "crawl_rate": 360
+        },
+        {
+            "title": "Forecast.io",
+            "slug": "forecast-io",
+            "url": "http://forecast.io/",
+            "crawl_rate": 480
+        },
+        {
+            "title": "Met Office",
+            "slug": "met-office",
+            "url": "http://www.metoffice.gov.uk/",
+            "crawl_rate": 180
+        },
+        {
+            "title": "OpenWeatherMap",
+            "slug": "openweathermap",
+            "url": "http://openweathermap.org/",
+            "crawl_rate": 360
+        },
+        {
+            "title": "Weather Underground",
+            "slug": "wunderground",
+            "url": "https://www.wunderground.com/?apiref=fc30dc3cd224e19b",
+            "crawl_rate": 720
+        },
+        {
+            "title": "World Weather Online",
+            "slug": "world-weather-online",
+            "url": "http://www.worldweatheronline.com/",
+            "crawl_rate": 360
+        }
+    ],
+    "title": "Brisbane",
+    "location_type": "City",
+    "woeid": 1100661,
+    "latt_long": "-27.468880,153.022827",
+    "timezone": "Australia/Brisbane"
+}
